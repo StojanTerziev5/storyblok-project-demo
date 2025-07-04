@@ -13,8 +13,7 @@
     "next": "15.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "storyblok-js-client": "^7.0.2",
-    "storyblok-react": "^0.1.2"
+    "storyblok-js-client": "^7.0.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
